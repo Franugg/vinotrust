@@ -306,3 +306,10 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.how-section {
+  background-image: url('../img/grape-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
