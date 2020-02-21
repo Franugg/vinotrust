@@ -1,3 +1,8 @@
 .masthead h1 {
     color: #fff;
 }
+
+.participants-section img {
+    margin: 0 auto;
+    max-width: 200px;
+}
